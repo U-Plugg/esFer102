@@ -1,0 +1,4 @@
+- 👋 Hola, soy esFerDev
+- 👀 Programo principalmente en Lua pero se manejar JavaScript, HTML y algo de CSS.
+- 🌱 Estoy principalmente programando en FiveM, pero también tengo experiencia en otros juegos que usan Lua, como Garry's Mod.
+- 📫 Hablo principalmente Español pero también tengo un B1 de Inglés.
