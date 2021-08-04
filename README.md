@@ -19,7 +19,7 @@
 
 ### About Me
 
-- ❤️ Working on [GoodFellasRP](https://www.discord.io/goodfellas)
+- ❤️ Working on [Project America](https://www.discord.io/projectamerica)
 - 🤩 Email: esfer102@gmail.com
 - 📭 Discord: esFerDev#2021
 - 💬 Ask me about anything [here](https://github.com/esfer102/esfer102/issues)
