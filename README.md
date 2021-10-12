@@ -21,7 +21,7 @@
 
 - ❤️ Working on [Project America](https://www.discord.io/projectamerica)
 - 🤩 Email: esfer102@gmail.com
-- 📭 Discord: esFerDev#2021
+- 📭 Discord: esFerDev#1467
 - 💬 Ask me about anything [here](https://github.com/esfer102/esfer102/issues)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=esfer102&show_icons=true&theme=radical" alt="esFerDev's GitHub stats" />
