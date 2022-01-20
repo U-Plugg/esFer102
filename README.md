@@ -15,11 +15,11 @@
 
 <!--### Proyectos
 
-<code><a href="https://www.discord.io/goodfellas"><img height="20" src="https://img.shields.io/badge/-❤%EF%B8%8F%20Project America-000?" /></a></code -->
+<code><a href="https://www.discord.io/westernproject"><img height="20" src="https://img.shields.io/badge/-❤%EF%B8%8F%20Project America-000?" /></a></code -->
 
 ### About Me
 
-<!-- - ❤️ Working on [Project America](https://www.discord.io/projectamerica) -->
+<!-- - ❤️ Working on [Western Project](https://www.discord.io/westernproject) -->
 - 🤩 Email: esfer102@gmail.com
 - 📭 Discord: esFerDev#1467
 - 💬 Ask me about anything [here](https://github.com/esfer102/esfer102/issues)
