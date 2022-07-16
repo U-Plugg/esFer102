@@ -21,7 +21,7 @@
 
 <!-- - ❤️ Working on [Western Project](https://www.discord.io/westernproject) -->
 - 🤩 Email: esfer102@gmail.com
-- 📭 Discord: esFerDev#1467
+- 📭 Discord: esFerDev#5236
 - 💬 Ask me about anything [here](https://github.com/esfer102/esfer102/issues)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=esfer102&show_icons=true&theme=radical" alt="esFerDev's GitHub stats" />
